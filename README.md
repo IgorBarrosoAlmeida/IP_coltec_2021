@@ -1,4 +1,5 @@
-<h1> Introdução a programação - 2021 </h1>
+<h1> Introdução a programação - 2021 </h1> 
+<img width="40" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 Este repositório guarda todos os códigos feitos durante o ano de 2021 na disciplina IP(Introdução a programação), do curso de Desenvolvimento de Sistemas do Colégio técnico da UFMG (Coltec).
 
