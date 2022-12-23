@@ -1,0 +1,30 @@
+Exercicios da aula 12 "Alocação dinâmica + ponteiros"
+
+1 Implemente uma função que aloque dinamicamente um vetor
+de inteiros. Essa função deverá receber como parâmetro um
+inteiro representando o tamanho do vetor, e retornar um
+ponteiro representando o vetor alocado.
+
+2 Implemente uma função que aloque dinamicamente uma
+matriz de números reais. Essa função deverá receber como
+parâmetro dois inteiros representando o tamanho da matriz, e
+retornar um ponteiro de ponteiros representando a matriz
+alocada.
+
+3 Fac ̧a um programa que leia um vetor de um tamanho
+escolhido pelo usuário e calcule a média aritmética de seus
+valores.
+
+4 Faça um programa que leia um vetor de números reais de
+tamanho escolhido pelo usuário e descubra qual é o aior e
+menor valor existente no vetor, junto de seu índice.
+
+5 Implemente um programa que receba uma matriz de números
+reais e retorne a soma dos elementos desta matriz. A matriz
+deverá ser alocada dinamicamente.
+
+6 Faça um programa para ler a quantidade de um total de X
+produtos que uma empresa tem em suas Y lojas e imprimir em
+uma tabela:
+    1 o total de cada produto nestas lojas
+    2 a loja que tem menos produtos

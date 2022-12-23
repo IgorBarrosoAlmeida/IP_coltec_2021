@@ -1,0 +1,17 @@
+Exercicios da aula 11 "Matrizes"
+
+1. Faça um programa que leia uma matriz 5x5 e um procedimento
+que imprima sua transposta.
+
+2. Crie uma função que receba uma matriz de números reais e
+retorne a soma dos elementos desta matriz.
+
+3. Faça um programa que leia um vetor de dimensão 5 e uma
+matriz quadrada de dimensão 5. Crie um procedimento que
+multiplique o vetor pela matriz. Imprima o resultado.
+
+4. Faça um programa para ler a quantidade de um total de 5
+produtos que uma empresa tem em suas 7 lojas e imprimir em uma
+tabela:
+a) o total de cada produto nestas lojas
+b) a loja que tem menos produtos

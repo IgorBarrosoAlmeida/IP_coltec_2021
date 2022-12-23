@@ -1,0 +1,15 @@
+Exercicios da aula 09 "Vetores"
+
+1 Faça um programa que leia, via teclado, 20 valores do tipo
+inteiro e determine qual o menor valor existente no vetor e
+imprima o valor e seu índice no vetor;
+
+2 Desenvolva um programa que leia um vetor de números reais,
+um escalar e imprima o resultado da multiplicação do vetor
+pelo escalar;
+
+3 Faça um programa que leia 2 vetores de tamanho 10 e calcule
+o produto escalar deles;
+
+4 Faça um programa que leia um vetor de um tamanho escolhido
+pelo usuário e calcule a média aritmética de seus valores.

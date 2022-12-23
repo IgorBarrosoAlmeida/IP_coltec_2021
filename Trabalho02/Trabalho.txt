@@ -1,0 +1,41 @@
+Disciplina: Introdução a Informática Ano: 2021
+Segundo trimestre
+
+Trabalho Prático
+
+Valor: 15 pontos
+Importante: Você deverá enviar o trabalho pelo Google Classroom salvando
+seu arquivo com a extensão .c. Nesse ponto você já deve ter feito os
+exercícios das aulas “Construindo um programa em C”, “Estruturas
+Condicionais” e “Estruturas de Repetição”, por esta razão, é importante
+que o código entregue COMPILE! Não entregue código sem compilar, pois,
+se ele não compila, ele certamente não funciona.
+
+Instruções:
+Você foi solicitado a fazer um sistema para uma pizzaria com objetivo
+de facilitar o preparo das pizzas.
+Esse sistema duas partes:
+
+- Módulo de Ingredientes
+Nesse módulo existe uma lista de pares contendo <código, ingrediente>.
+Para efeitos de simplificação, suponha que a lista de ingredientes é
+fixa, ou seja, não é necessário ler do usuário os ingredientes.
+Para realizar os testes, sua lista de ingredientes deve conter, pelo
+menos, 20 ingredientes.
+
+- Módulo de Receitas
+Nesse módulo existe uma lista de receitas de pizza. Cada receita de
+pizza é composta de uma lista de códigos de ingredientes e as quantidades
+utilizadas daquele ingrediente naquela receita, bem como um código da
+receita.
+
+Ao contrário dos ingredientes, a lista de receitas NÃO É FIXA, ou seja,
+é necessário ler do usuário as receitas.
+Você deverá fazer um sistema que, dado um código de uma pizza, imprimir
+para o usuário de forma organizada, a descrição dos ingredientes e a
+quantidade de cada um deles para fazer a pizza.
+
+Importante:
+- Os dados devem ser armazenados em estruturas.
+- Não é necessário utilizar alocação dinâmica para fazer a parte de
+ingredientes.

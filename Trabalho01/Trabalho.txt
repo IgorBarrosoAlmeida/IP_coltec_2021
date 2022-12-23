@@ -1,0 +1,42 @@
+Disciplina: Introdução a Programação Ano: 2021
+Primeiro Trimestre
+
+Trabalho Prático
+
+Valor: 15 pontos
+Importante: Você deverá enviar o trabalho pelo Google Classroom salvando
+seu arquivo com a extensão .c. Nesse ponto você já deve ter feito os
+exercícios das aulas “Construindo um programa em C”, “Estruturas
+Condicionais” e “Estruturas de Repetição”, por esta razão, é importante
+que o código entregue COMPILE! Não entregue código sem compilar, pois
+se ele não compila, ele certamente não funciona.
+
+Instruções:
+Você deverá construir uma calculadora simples capaz de realizar contas
+utilizando sempre dois operandos de ponto flutuante e um operador (adição
+(+), subtração (-), multiplicação (*), divisão (/), módulo (%) e
+exponenciação (#)).
+
+As operações serão feitas sempre uma a uma, sempre mostrando o resultado
+na tela após a entrada dos dados. Exemplo:
+Operacao.> 2 + 5.2
+Resultado> 7.2
+Operacao.> 8.3 – 0.3
+Resultado> 8.0
+Operacao.> 5 % 2
+Resultado> 1
+Operacao.> 2 # 3
+Resultado> 8
+Operacaof> F i m
+
+As operações devem acontecer até que o usuário entre com dados inválidos,
+por exemplo, um caractere onde é esperado um número.
+
+A operação de exponenciação não deverá ser feita utilizando nenhuma
+função da biblioteca math.h pois esse assunto ainda não foi apresentado.
+Você deverá realizar a operação realizando a multiplicação tantas vezes
+quanto necessário utilizando um laço.
+
+Para as operações de módulo você pode assumir que as entradas são
+inteiras (caso contrário, não faz sentido a operação de módulo), assim
+como o expoente da exponenciação que também deve ser inteiro.

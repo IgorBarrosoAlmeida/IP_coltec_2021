@@ -1,0 +1,19 @@
+Exercicios da aula 04 "Criando um programa em C"
+
+1 Construir um algoritmo para ler 5 valores inteiros, calcular e
+imprimir a soma desses valores;
+
+2 Construir um algoritmo para ler 6 valores reais, calcular e
+imprimir a média aritmética desses valores;
+
+3 Fazer um algoritmo para gerar e imprimir o resultado do
+número H, sendo H = 1 + 1/2 + 1/3 + 1/4 + 1/5;
+
+4 Calcular o aumento que será dado a um funcionário, obtendo
+do usuário as seguintes informações : salário atual e a
+porcentagem de aumento. Apresentar o novo valor do salário e
+o valor do aumento;
+
+5 A nota nal de um aluno é dada pela média ponderada das
+notas das provas. Sabendo que o professor deu 3 provas, com
+pesos 4, 3 e 3, respectivamente, calcule a nota nal do aluno;

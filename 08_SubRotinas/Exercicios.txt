@@ -1,0 +1,31 @@
+Exercicios da aula 08 "SubRotinas (Funções/Procedimentos)"
+
+1 Faça um programa que apresente o seguinte menu para o
+usuário:
+Escolha uma opção de cálculo para dois números:
+    1 Soma
+    2 Produto
+    3 Quociente
+    4 Sair
+Opção:
+O menu acima deve ser apresentado para o usuário enquanto ele
+não escolher a opção 4 (sair do programa). O usuário fornecerá 2
+números se escolher as opções de cálculo 1, 2 ou 3. Para cada
+opção de cálculo deve existir (obrigatoriamente) uma função
+denida (soma, produto e quociente dos dois números fornecidos
+pelo usuário). O resultado do cálculo deve ser escrito na tela.
+
+2 Faça uma função que receba a idade de uma pessoa em anos,
+meses e dias e retorna essa idade expressa em dias.
+
+3 Faça um procedimento que receba por parâmetro o tempo de
+duração de um experimento expresso em segundos e imprima
+na tela esse mesmo tempo em horas, minutos e segundos.
+
+4 Implemente uma função que receba um número inteiro como
+entrada e verique se esse número é primo ou não. Um
+número é primo quando este possui apenas dois divisores (1 e
+ele mesmo).
+
+5 Faça uma função que receba um valor N inteiro e positivo e
+que calcula o fatorial deste valor. Retorne o resultado.

@@ -1,0 +1,26 @@
+Exercicios da aula 05 "Estruturas condicionais"
+
+1 Ler um número inteiro e informar se ele é par ou ímpar;
+
+2 Faça um programa para ler dois inteiros e determinar qual é o
+maior entre eles ou se eles são iguais;
+
+3 Desenvolver um algoritmo para ler o número do dia da semana
+e imprimir o seu respectivo nome por extenso. Considerar o
+número 1 como domingo, 2 para segunda etc. Caso o dia da
+semana não exista (menor do que 1 ou maior do que 7), exibir
+a mensagem Dia da semana inválido;
+
+4 Fazer um algoritmo para ler dois números e um dos símbolos
+das operações: +, -, * e /. Imprimir o resultado da operação
+efetuada sobre os números lidos;
+
+5 Faça um programa que leia 3 comprimentos (x,y e z) e
+responda se eles formam um triângulo, ou seja, se x < y + z e
+y < x + z e z < x + y;
+
+6 Tendo como dados de entrada a altura e o sexo de uma
+pessoa, construa um programa que calcule seu peso ideal,
+utilizando as seguintes fórmulas: para homens: (72.7*h)-58
+para mulheres: (62.1*h)-44.7 Informe também se a pessoa
+está acima ou abaixo deste peso.

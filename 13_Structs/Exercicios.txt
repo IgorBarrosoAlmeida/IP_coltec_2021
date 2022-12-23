@@ -1,0 +1,20 @@
+Exercicios da aula 13 "Structs"
+
+1. Faça um programa para leitura, via teclado, dos dados de um
+aluno. Os dados a serem guardados na estrutura aluno são os
+seguintes: nome, curso, idade. Ao final, imprima estas informações
+na tela.
+
+2. Considere a mesma estrutura definida anteriormente. Acrescente
+à estrutura um vetor com as notas das três provas feitas pelo aluno,
+calcule a sua média e diga se ele foi aprovado ou não (media >=
+60).
+
+3. Altere o programa do exercício 2 para que ele leia as informações
+de N alunos. Imprima a média de cada aluno e a média geral da
+turma.
+
+4. Acrescente um procedimento ao exercício 3 que ordene a
+estrutura de alunos em ordem crescente da média das notas. Ao
+final, imprima todas as informações na tela (ordenadas pela média
+das notas).

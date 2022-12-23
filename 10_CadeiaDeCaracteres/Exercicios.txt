@@ -1,0 +1,29 @@
+Exercicios da aula 10 "Cadeia de caracteres (string)"
+
+1. Fazer um programa para contar o número de espaços em brancos de
+uma string.
+
+2. Fazer um programa para imprimir uma string, recebida como entrada
+do usuário, sem os espaços em branco.
+
+3. Fazer um programa para contar o número de vogais numa string.
+
+4. Escrever um programa para ler uma string (com mais de uma palavra)
+e faça com que a primeira letra de cada palavra que em maiúscula. Para
+isso, basta subtrair 32 do elemento que deseja alterar para maiúsculo.
+
+5. Escreva um programa que receba uma string de tamanho máximo 100,
+e verique se é um palíndromo. Uma palavra é dita ser um palíndromo se
+a sequência de seus caracteres da esquerda para a direita é igual a
+sequência de seus caracteres da direita para a esquerda. Ex: arara, asa.
+
+6. Um palíndromo, além de uma palavra, pode ser uma frase ou qualquer outra
+sequência de unidades que tenha a propriedade de poder ser lida tanto da
+direita para a esquerda como da esquerda para a direita. Em um palíndromo,
+normalmente são desconsiderados os sinais ortográcos, assim como o espaços
+entre palavras. Alguns exemplos de palíndromos são:
+Socorram-me, subi no onibus em Marrocos
+Anotaram a data da maratona
+Dammit, I'm mad!
+Faça um programa que leia uma frase e determine se ela é um palíndromo. Use
+funções e/ou procedimentos.

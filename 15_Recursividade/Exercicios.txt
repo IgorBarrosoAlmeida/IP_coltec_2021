@@ -1,0 +1,20 @@
+Exercicios da aula 15 "Recursividade"
+
+1 Faça um procedimento recursivo que receba dois valores
+inteiros a e b e imprima o intervalo fechado entre eles. Se a for
+maior que b mostrar mensagem de erro.
+
+2 Seja S um vetor de inteiros. Descreva funções recursivas para
+calcular:
+    1 o elemento máximo de S;
+    2 a soma dos elementos de S;
+    3 média aritmética dos elementos de S.
+
+3 Escreva uma função recursiva para calcular o N-ésimo número
+da sequência de Fibonacci.
+
+4 Escreva uma função recursiva para determinar o número de
+dígitos de um inteiro N.
+
+5 Escreva uma função recursiva que busque por um determinado
+elemento em um vetor de inteiros.

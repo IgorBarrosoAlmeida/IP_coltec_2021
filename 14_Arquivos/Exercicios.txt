@@ -1,0 +1,17 @@
+Exercicios da aula 14 "Manipulação de arquivos"
+
+1. Faça uma função que retorne o número de linhas de um arquivo.
+
+2. Faça uma função que retorne o número de caracteres de um
+arquivo. Espaços e quebras de linha não devem ser contados.
+
+3. Faça um programa que leia de um arquivo as informações sobre
+o nome e as 2 notas de diversos alunos. Imprima a listagem de
+alunos e suas respectivas médias. O programa deve criar o arquivo
+de entrada e criar um arquivo de saída com o nome e a média de
+cada aluno. Armazene as informações dos alunos em um registro
+(struct).
+
+4. Adicione ao programa anterior uma função para calcular o desvio
+padrão e a variância das médias dos alunos. Grave essa informação
+no final do arquivo de saída.

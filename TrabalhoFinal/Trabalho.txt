@@ -1,0 +1,46 @@
+Disciplina: Introdução a Programação Ano: 2021
+Terceiro Trimestre
+
+Trabalho Prático
+
+Valor: 20 pontos
+Importante: Você deverá enviar o trabalho pelo Google Classroom salvando
+seu arquivo com a extensão .c. É importante que o código entregue
+COMPILE! Não entregue código sem compilar, pois, se ele não compila, ele
+certamente não funciona.
+
+Instruções:
+Você foi solicitado a fazer um sistema para uma pizzaria com objetivo
+de facilitar o preparo das pizzas.
+Esse sistema duas partes:
+
+- Módulo de Ingredientes
+Nesse módulo existe uma lista de pares contendo <código, ingrediente>.
+Para realizar os testes, sua lista de ingredientes deve conter, pelo
+menos, 20 ingredientes.
+
+- Módulo de Receitas
+Nesse módulo existe uma lista de receitas de pizza. Cada receita de
+pizza é composta de uma lista de códigos de ingredientes e as quantidades
+utilizadas daquele ingrediente naquela receita, bem como um código da
+receita.
+
+Você deverá fazer um sistema que seja possível:
+- Cadastrar um ingrediente (Código e Descrição);
+- Listar os ingredientes cadastrados por ordem de código, de descrição
+ou de criação;
+- Cadastrar uma receita (Código, Descrição, Ingredientes e Quantidades);
+- Listar todas as receitas cadastradas por ordem de código, de descrição
+ou de cadastro.
+- Listar todas as receitas cadastradas, com os ingredientes ordenados
+pela descrição ou por ordem de cadastro (aqui não precisa por código).
+Além disso, o estado do sistema deverá ser preservado em arquivo, ou
+seja, encerrar o sistema e abri-lo novamente deverá restaurar o estado
+antes de fechar.
+
+Simplificações:
+- O formado de arquivo é definido por vocês. Em texto, binário, não
+importa.
+- Um algoritmo de ordenação BubbleSort será fornecido para ajudar no
+trabalho.
+- Não é necessário implementar rotinas de apagar.
